@@ -1,0 +1,2 @@
+Action start 19:59:31: InstallValidate.
+Action ended 19:59:31: InstallValidate. Return value 0.

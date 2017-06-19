@@ -1,0 +1,16 @@
+[2017-06-18 23:30:27.694] [file_rotating_logger] [info] =======================================================================
+[2017-06-18 23:30:27.695] [file_rotating_logger] [info] # Updater Version: 1.0.0.26
+[2017-06-18 23:30:27.695] [file_rotating_logger] [info] [App] Executed:  --update 4.11.2.1298 en-US real 0
+[2017-06-18 23:30:27.760] [file_rotating_logger] [info] [App] AppId: LINE
+[2017-06-18 23:30:27.761] [file_rotating_logger] [info] [App] ipc port file: C:/users/root/Local Settings/Application Data/LINE/Data/_qt_dt_port_root
+[2017-06-18 23:30:27.762] [file_rotating_logger] [info] [App] loadUpdateInfo: osVersion: 5.1.0.0
+[2017-06-18 23:30:27.825] [file_rotating_logger] [info] [App] update not available.
+[2017-06-18 23:30:27.825] [file_rotating_logger] [info] [App] onCheckCompleted: updatedRequired: false
+[2017-06-18 23:30:27.825] [file_rotating_logger] [info] [EventHandler] end of listen (0)
+[2017-06-18 23:30:27.825] [file_rotating_logger] [info] [IPC] 47 bytes.
+[2017-06-18 23:30:27.825] [file_rotating_logger] [info] [IPC] onSent: 47bytes
+[2017-06-18 23:30:27.926] [file_rotating_logger] [info] [App] onEnd
+[2017-06-18 23:30:27.926] [file_rotating_logger] [info] [IPC] client finalized
+[2017-06-18 23:30:27.929] [file_rotating_logger] [info] LineUpdater=>Terminated
+[2017-06-18 23:30:27.929] [file_rotating_logger] [info] =======================================================================
+
